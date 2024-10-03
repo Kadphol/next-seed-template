@@ -1,0 +1,5 @@
+include:
+  - component: git.7solutions.co.th/cicd-components/ts-ci-template/pipeline@~latest
+    inputs:
+      engine_type: 'pnpm'
+      engine_script: 'pnpm'

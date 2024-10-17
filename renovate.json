@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:recommended", "group:all"],
+  "extends": ["config:recommended", "group:all", ":semanticCommits", ":semanticCommitScope(package)"],
   "updatePinnedDependencies": false,
   "stabilityDays": 2,
   "separateMajorMinor": true,

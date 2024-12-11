@@ -20,6 +20,8 @@ const config: Config = {
   coveragePathIgnorePatterns: ['/node_modules/'],
   moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/src/$1',
+    '@mock/(.*)$': '<rootDir>/__mock__/$1',
+    '@tests/(.*)$': '<rootDir>/__tests__/$1',
   },
   moduleDirectories: ['node_modules', '<rootDir>/'],
   testEnvironment: 'jsdom',

@@ -1,4 +1,4 @@
-# Next.js 14+ + Tailwind CSS 3+ + TypeScript Starter
+# Next.js 15+ + Tailwind CSS 3+ + TypeScript Starter
 
 ## ⚡ next-seed-template
 

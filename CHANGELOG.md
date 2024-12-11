@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Kadphol/next-seed-template/compare/v1.0.0...v1.1.0) (2024-12-11)
+
+
+### Features
+
+* next 15 and react 19 with refactor structure ([cb06c63](https://github.com/Kadphol/next-seed-template/commit/cb06c631d809e17a733ff55e3a446bf609096377))
+
 # 1.0.0 (2024-10-17)
 
 

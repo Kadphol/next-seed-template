@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Kadphol/next-seed-template/compare/v1.1.0...v1.1.1) (2025-03-25)
+
+
+### Bug Fixes
+
+* **next:** update next version ([2727212](https://github.com/Kadphol/next-seed-template/commit/2727212ecdb9eff7841cbbd88c93f5d7edeb4301))
+
 # [1.1.0](https://github.com/Kadphol/next-seed-template/compare/v1.0.0...v1.1.0) (2024-12-11)
 
 
